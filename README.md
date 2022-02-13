@@ -1,1 +1,1 @@
-# JS-projects
+# My first project Using JS class
